@@ -1,3 +1,7 @@
 teasdfadf
 add in dev branch!
+<<<<<<< HEAD
 branch dev2 added
+=======
+edit in github！！！！！
+>>>>>>> 85e4b21a414c8a2c52462bce4c89b107f451805e
